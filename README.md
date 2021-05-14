@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Tom, with the Colorado Board of Elections, and I worked together to analyze the results of a recent congressional election.  He provided a [CSV file](https://github.com/js816/Election-Analysis/blob/main/Resources/election_results.csv) with all votes cast in the election and Python code was developed to evaluate the votes. The tasks to complete were:
+Tom, with the Colorado Board of Elections, and I worked together to analyze the results of a recent congressional election.  He provided a [data file](https://github.com/js816/Election-Analysis/blob/main/Resources/election_results.csv) with all votes cast in the election and code was developed to evaluate the votes. The tasks to complete were:
 
 1. Calculate the total number of votes cast
 2. Get a list of candidates who received votes
